@@ -1,26 +1,17 @@
 public class CscExamples{
-	private int quId
-	
-	public  addQution(CscExample quId){
+	private int questionNo;
+	private String;
+	private text;
+
+	int qetQuestionNo(){
 		
-	}
-	
-	public void getQustionNo(){
-		
-	}
-	
-	public void getCatogory(){
-		
-	}
-	public void gettext(){
-		
-	}
-	
-	public  removeQutions(int quId){
-		
-	}
-	public editQution(int quID){
-		
-	}
 
 }
+	String getCateogory(){}
+
+	String getText(){}
+
+	
+	void setQuestionNo(){}
+	void setCateogory(){}
+	void setText(){}
