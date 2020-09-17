@@ -3,13 +3,9 @@
 
 public class CscExamples{
 
-	private int questionNo;
-	private String catogory;
-	private String text;
-
-	public setQuestionNo(){};
-	public setCatogory(){};
-	public setText(){};
+	void addQestion(CscExample qu);
+	void removeQuestion(int qu);
+	void editQuestion(int qu);
 
 
 }
