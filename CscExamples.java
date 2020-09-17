@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class CscExamples{
 	private int questionNo;
 	private String;
@@ -15,3 +16,18 @@ public class CscExamples{
 	void setQuestionNo(){}
 	void setCateogory(){}
 	void setText(){}
+=======
+
+
+
+public class CscExamples{
+
+	void addQestion(CscExample qu);
+	void removeQuestion(int qu);
+	void editQuestion(int qu);
+
+
+}
+
+
+>>>>>>> csc
